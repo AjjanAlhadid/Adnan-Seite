@@ -1,0 +1,77 @@
+*{
+  background-color: rgb(22, 26, 66);
+}
+
+h1 {
+  background-color: darkcyan ;
+  color: aliceblue;
+  padding: 2% ;
+  margin: 1.6em 20px;
+  
+
+}
+
+
+h1:first-letter {
+    font-size: 120%;
+    color: chocolate;
+    text-decoration: overline;
+    
+}
+
+
+
+a {
+  text-decoration: none;
+  color: darkcyan;
+}
+a:hover {
+  color: chocolate;
+}
+
+#IT-Texte {
+  text-transform: capitalize;
+  background-color: darkcyan;
+  color: aliceblue;
+}
+#IT-Texte:active {
+  color: chocolate;
+}
+.p2 {
+  text-align: center;
+  background-color: chocolate;
+  color: aliceblue;
+  border: darkcyan 5px solid;
+  border-radius: 80px;
+  padding: 10px;
+
+}
+.p2:hover {
+  color: rgb(219, 25, 41);
+}
+
+h2 {
+  border: darkcyan;
+  background-color: darkcyan;
+  color: aliceblue;
+  text-align: center;
+}
+
+
+Span2,span1{
+  color: chocolate;
+}
+.FotoAdnan {
+  height: 150px;
+  width: 200px;
+  float: right;
+  border: chocolate 5px solid;
+  border-radius: 60%;
+}
+.Foto2 {
+  width: 500px;
+  height: 250px;
+  margin: 0 500px;
+  border: chocolate 5px solid;
+  border-radius: 30%;
+}
